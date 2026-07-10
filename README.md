@@ -25,6 +25,8 @@ Libraries and software development kits for building single-agent systems.
 
 * **[LangChain](https://github.com/langchain-ai/langchain)** - Build context-aware, reasoning applications with composable LLM chains.
 * **[LlamaIndex](https://github.com/run-llama/llama_index)** - Data framework for LLM applications to connect private data to agents.
+* **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** - A production-ready agent framework from the creators of Pydantic, focusing on type safety and structured outputs.
+* **[Vercel AI SDK](https://github.com/vercel/ai)** - Complete TypeScript toolkit to build conversational, streaming, and agentic user interfaces.
 * **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** - Microsoft's SDK that integrates LLMs with conventional programming languages.
 * **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** - An experimental open-source attempt to make GPT-4 fully autonomous.
 
@@ -32,6 +34,7 @@ Libraries and software development kits for building single-agent systems.
 
 Frameworks designed for multi-agent cooperation, role-playing, and complex tasks.
 
+* **[LangGraph](https://github.com/langchain-ai/langgraph)** - Stateful, multi-actor coordination framework built by LangChain, ideal for cyclic agent patterns and graphs.
 * **[CrewAI](https://github.com/crewAIInc/crewAI)** - Framework for orchestrating role-playing, autonomous AI agents to build collaborative intelligence.
 * **[Microsoft AutoGen](https://github.com/microsoft/autogen)** - Framework that enables development of LLM applications using multiple conversing agents.
 * **[ChatDev](https://github.com/OpenBMB/ChatDev)** - Virtual software company operated by multiple AI agents playing different roles.
@@ -41,6 +44,8 @@ Frameworks designed for multi-agent cooperation, role-playing, and complex tasks
 
 Add-ons, APIs, and tools that give agents the ability to search, execute code, and access systems.
 
+* **[Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)** - Open standard for secure integration of tools and data sources into LLMs and IDEs.
+* **[Composio](https://github.com/ComposioHQ/composio)** - Integrate over 100+ native third-party tools (GitHub, Slack, database connections) directly into agents.
 * **[Tavily API](https://tavily.com/)** - Search engine optimized specifically for LLMs and autonomous agents.
 * **[LangChain Community Tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)** - Rich suite of pre-built integrations for file operations, search engines, and APIs.
 * **[BrowserUse](https://github.com/browser-use/browser-use)** - Allows AI agents to interact with web browsers to perform tasks like humans.
@@ -49,9 +54,11 @@ Add-ons, APIs, and tools that give agents the ability to search, execute code, a
 
 Platforms to trace, debug, monitor, and evaluate the performance of agent workflows.
 
+* **[AgentOps](https://github.com/AgentOps-AI/agentops)** - Dashboard to trace, evaluate, and benchmark agent workflows, actions, and costs.
 * **[LangSmith](https://www.langchain.com/langsmith)** - Platform to trace, debug, test, and evaluate LLM applications and agents.
 * **[Phoenix](https://github.com/Arize-AI/phoenix)** - Open-source AI observability platform for tracking, evaluating, and tracing LLM/RAG.
 * **[Langfuse](https://github.com/langfuse/langfuse)** - Open-source LLM engineering platform for tracing, analytics, and prompt management.
+* **[OpenLit](https://github.com/openlit/openlit)** - Open-source monitoring tool for LLMs and agents built with OpenTelemetry.
 
 ## 🎓 Tutorials & Guides
 
@@ -65,6 +72,7 @@ High-quality tutorials and learning resources to master Agentic AI.
 Foundational literature that defines the agentic paradigm.
 
 * **[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)** - Foundational paper on pairing reasoning tracing with action execution.
+* **[LLM-Compiler: An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)** - Streamlines tool execution by building dependency trees and calling functions in parallel.
 * **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)** - The original paper simulating sandbox environments using multiple generative AI agents.
 
 ---
@@ -72,3 +80,4 @@ Foundational literature that defines the agentic paradigm.
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place! Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your favorite frameworks and tools.
+
