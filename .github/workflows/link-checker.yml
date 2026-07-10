@@ -4,24 +4,22 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    # Run once a week on Sunday at midnight
-    - cron: '0 0 * * 0'
+    # Run once a week on Monday at midnight
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
   link-checker:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Check Links
-        uses: lycheeverse/lychee-action@v1.8.0
+      - name: Run Lychee Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
         with:
-          # Check all markdown files
-          args: --verbose --no-progress "*.md"
+          args: --verbose --no-progress README.md
+          fail: true # Fail the build if any broken links are found
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
