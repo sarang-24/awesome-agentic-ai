@@ -45,6 +45,7 @@ Frameworks designed for multi-agent cooperation, role-playing, and complex tasks
 Add-ons, APIs, and tools that give agents the ability to search, execute code, and access systems.
 
 * **[Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)** - Open standard for secure integration of tools and data sources into LLMs and IDEs.
+* **[Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay)** - Local-first CLI that exposes existing agent capabilities over a trusted LAN while keeping their code and credentials on the host.
 * **[Composio](https://github.com/ComposioHQ/composio)** - Integrate over 100+ native third-party tools (GitHub, Slack, database connections) directly into agents.
 * **[Tavily API](https://tavily.com/)** - Search engine optimized specifically for LLMs and autonomous agents.
 * **[LangChain Community Tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)** - Rich suite of pre-built integrations for file operations, search engines, and APIs.
@@ -80,4 +81,3 @@ Foundational literature that defines the agentic paradigm.
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place! Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your favorite frameworks and tools.
-
