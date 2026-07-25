@@ -39,6 +39,7 @@ Frameworks designed for multi-agent cooperation, role-playing, and complex tasks
 * **[Microsoft AutoGen](https://github.com/microsoft/autogen)** - Framework that enables development of LLM applications using multiple conversing agents.
 * **[ChatDev](https://github.com/OpenBMB/ChatDev)** - Virtual software company operated by multiple AI agents playing different roles.
 * **[MetaGPT](https://github.com/geekan/MetaGPT)** - Multi-agent framework that takes a one-line requirement as input and outputs user stories/specs/code.
+* **[Agon](https://github.com/AutoResearch-Factory/Agon)** - Autonomous research orchestrator built around reusable prompt loops across more than ten research fields.
 
 ## 🔌 Agent Tools & Skills
 
@@ -59,6 +60,7 @@ Platforms to trace, debug, monitor, and evaluate the performance of agent workfl
 * **[Phoenix](https://github.com/Arize-AI/phoenix)** - Open-source AI observability platform for tracking, evaluating, and tracing LLM/RAG.
 * **[Langfuse](https://github.com/langfuse/langfuse)** - Open-source LLM engineering platform for tracing, analytics, and prompt management.
 * **[OpenLit](https://github.com/openlit/openlit)** - Open-source monitoring tool for LLMs and agents built with OpenTelemetry.
+* **[PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap)** - The first benchmark for multi-agent orchestration prompt writing across 110 scenarios and 10 topologies.
 
 ## 🎓 Tutorials & Guides
 
