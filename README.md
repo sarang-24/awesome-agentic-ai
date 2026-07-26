@@ -55,6 +55,7 @@ Add-ons, APIs, and tools that give agents the ability to search, execute code, a
 Platforms to trace, debug, monitor, and evaluate the performance of agent workflows.
 
 * **[AgentOps](https://github.com/AgentOps-AI/agentops)** - Dashboard to trace, evaluate, and benchmark agent workflows, actions, and costs.
+* **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** - Benchmarking framework for AI web agents on 283 real-world online tasks across two suites, with isolated browser runs and five-layer execution traces.
 * **[LangSmith](https://www.langchain.com/langsmith)** - Platform to trace, debug, test, and evaluate LLM applications and agents.
 * **[Phoenix](https://github.com/Arize-AI/phoenix)** - Open-source AI observability platform for tracking, evaluating, and tracing LLM/RAG.
 * **[Langfuse](https://github.com/langfuse/langfuse)** - Open-source LLM engineering platform for tracing, analytics, and prompt management.
