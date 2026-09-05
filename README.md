@@ -44,6 +44,7 @@ Frameworks designed for multi-agent cooperation, role-playing, and complex tasks
 
 Add-ons, APIs, and tools that give agents the ability to search, execute code, and access systems.
 
+* **[Agent QA](https://github.com/vostride/agent-qa)** - Source-available MCP tools for authoring and running natural-language web, Android, and iOS application tests.
 * **[Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)** - Open standard for secure integration of tools and data sources into LLMs and IDEs.
 * **[Composio](https://github.com/ComposioHQ/composio)** - Integrate over 100+ native third-party tools (GitHub, Slack, database connections) directly into agents.
 * **[Tavily API](https://tavily.com/)** - Search engine optimized specifically for LLMs and autonomous agents.
