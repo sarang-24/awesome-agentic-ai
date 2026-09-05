@@ -115,6 +115,13 @@ const resources: Resource[] = [
   },
   // Tools
   {
+    name: "Agent QA",
+    url: "https://github.com/vostride/agent-qa",
+    category: "Tools",
+    description: "Source-available MCP tools for authoring and running natural-language web, Android, and iOS application tests.",
+    tags: ["MCP", "Application Testing", "TypeScript", "FSL-1.1-ALv2"]
+  },
+  {
     name: "Model Context Protocol (MCP)",
     url: "https://github.com/modelcontextprotocol",
     category: "Tools",
