@@ -49,6 +49,7 @@ Add-ons, APIs, and tools that give agents the ability to search, execute code, a
 * **[Tavily API](https://tavily.com/)** - Search engine optimized specifically for LLMs and autonomous agents.
 * **[LangChain Community Tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)** - Rich suite of pre-built integrations for file operations, search engines, and APIs.
 * **[BrowserUse](https://github.com/browser-use/browser-use)** - Allows AI agents to interact with web browsers to perform tasks like humans.
+* **[Tale](https://tale.dev/)** - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
 ## 📊 Evaluation & Observability
 
